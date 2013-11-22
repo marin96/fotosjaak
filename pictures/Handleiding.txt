@@ -1,0 +1,6 @@
+Jumbo's EvilBabies handleiding
+
+Jumbo's EvilBabies is een 2D Shooter/Arcade game die voor iedereen toegankelijk is.
+Om het spel te starten drukt u op B, u zit direkt een demon op u beeld!
+schiet de Baby demonen dood met behulp van de spatie bar. Stop de game wanneer u wilt met de esc toets.
+loop naar voren en achter met de S en A toets.

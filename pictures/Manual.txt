@@ -1,0 +1,8 @@
+Jumbo's Evil Babies manual
+
+Jumbo's Evil Babies is a 2D Shooter / Arcade game that is accessible for everyone.
+To start the game, press B,you immediately see a enemy on your screen!
+Shoot Baby demons using the space bar. Stop the game whenever you want with the esc key.
+walk back and forward with the S and A button and even your scores are shown at the top of your screen.
+Still have questions about this game? We have FAQ page on our site.
+Have fun playing this game!

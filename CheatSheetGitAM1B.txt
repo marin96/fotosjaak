@@ -1,0 +1,30 @@
+Unix commando's
+++++++++++++++++++++++++++++++
+Dit teken ~ is een tilde. Geeft je homedir aan
+ls -la laat alle directory's en files in je directory zien
+cd (naam) hiermee ga je naar een andere directory
+cd ~ hiermee ga je terug naar je homedirectory
+cd .. hiermee ga je een directory hoger
+pijltje omhoog of naar benede laat je oude commando's zien
+met tab maakt gitbash je directorynaam of filenaam af
+met clear maak je je scherm leeg
+ctrl l nog opzoeken wat hij precies, wel iets met opschrijven
+PS1"Marin$" Hiermee verander je de cursornaam
+git --version Geeft de versie weer van git
+cat test.php laat de inhoud van het tekstbestand zien
+
+het configuren van Git
++++++++++++++++++++++++++++++++
+git config --global user.name "Marin Schermij"
+git config --global user.email "MarinSchermij@gmail.com"
+git config --global color.ui true
+git config -- global push.default matching
+git config -- global push.default simple
+met git config --list kun je alle ingestelde waarde bekijken
+met git config user.naem kun je bijvoorbeeld een waarde bekijken
+
+het maken van een Git Workingdirectory / repository (repo)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1 Maak een directory
+2 Ga met verkenner naar deze directory
+3 Initialiseer je gitdirectory door rechts te klikken op je directory en dan te kiezen a) git init of b) git bash en type git init (en dan enter)
